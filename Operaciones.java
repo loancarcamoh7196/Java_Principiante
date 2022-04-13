@@ -1,7 +1,8 @@
 public class Operaciones {
   public static void main(String[] args) {
 
-    int num_1 = 4;
+    int num_1 = 4; +
+     
     int num_2 = 4;
     int res = 0;
 
